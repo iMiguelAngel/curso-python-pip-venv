@@ -20,3 +20,17 @@ pip3 install -r requirements.txt
 cd app
 python3 main.py
 ```
+
+
+# Web-server Project
+
+Para realizar requerimientos debes seguir las siguientes instrucciones en la terminal
+
+```sh
+git clone
+python3 -m venv venv
+source ./venv/bin/activate
+pip3 install -r requirements.txt
+cd web-server
+python3 main.py
+```
