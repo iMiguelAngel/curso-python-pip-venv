@@ -7,3 +7,16 @@ cd game
 python3 main.py
 ```
 
+
+# App Project
+
+Para correr la app debes seguir las siguientes instrucciones en la terminal
+
+```sh
+git clone
+python3 -m venv venv
+source ./venv/bin/activate
+pip3 install -r requirements.txt
+cd app
+python3 main.py
+```
