@@ -3,6 +3,7 @@ import requests
 
 def get_categories():
 
+    #fakeapi de platzi
     r = requests.get('https://api.escuelajs.co/api/v1/categories')
 
     print(r.status_code)
